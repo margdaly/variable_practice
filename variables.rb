@@ -23,3 +23,17 @@ shoe_size = 8.5
 alive = true
 
 dead = false
+
+# Reassign
+
+name = "mkd"
+
+job = "coach"
+
+location = "beach"
+
+puts "coding is fun!"
+
+puts "ruby is fun!"
+
+puts "fun fun fun!"
