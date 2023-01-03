@@ -18,3 +18,8 @@ height = 5.8
 
 shoe_size = 8.5
 
+# Boolean
+
+alive = true
+
+dead = false
