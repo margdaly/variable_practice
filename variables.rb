@@ -38,4 +38,10 @@ puts "ruby is fun!"
 
 puts "fun fun fun!"
 
-puts "really fun."
+puts "really fun!"
+
+puts name 
+
+puts job
+
+puts age 
