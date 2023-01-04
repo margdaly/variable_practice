@@ -40,8 +40,8 @@ puts "fun fun fun!"
 
 puts "really fun!"
 
-puts name 
+puts "name" 
 
-puts job
+puts "job"
 
-puts age 
+puts "age" 
